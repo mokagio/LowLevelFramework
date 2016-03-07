@@ -1,0 +1,13 @@
+//
+//  LowLevelFeature.swift
+//  LowLevelFramework
+//
+//  Created by Giovanni Lodi on 7/03/2016.
+//  Copyright © 2016 Giovanni Lodi. All rights reserved.
+//
+
+import Foundation
+
+public func lowLevelFeature() -> String {
+    return "low-level-result"
+}
