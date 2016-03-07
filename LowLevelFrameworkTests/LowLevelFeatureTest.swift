@@ -12,6 +12,6 @@ import XCTest
 class LowLevelFeatureTest: XCTestCase {
 
     func testExample() {
-        XCTAssertEqual(lowLevelFeature(), "low-level-result")
+        XCTAssertEqual(lowLevelFeature(), "low-level-result-1.0.1")
     }
 }

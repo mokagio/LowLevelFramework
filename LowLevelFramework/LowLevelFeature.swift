@@ -9,5 +9,5 @@
 import Foundation
 
 public func lowLevelFeature() -> String {
-    return "low-level-result"
+    return "low-level-result-1.0.1"
 }
