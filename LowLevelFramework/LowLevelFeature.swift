@@ -11,3 +11,7 @@ import Foundation
 public func lowLevelFeature() -> String {
     return "low-level-result-1.0.1"
 }
+
+public func anotherLowLevelFunction() -> Int {
+    return 42
+}
